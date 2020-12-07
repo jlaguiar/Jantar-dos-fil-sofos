@@ -7,3 +7,10 @@ mais próximos, o da esquerda e o da direita. Ele só pode pegar um de cada vez.
 mesmo tempo, ele pode comer, sem soltar os garfos. Quando ele acaba de comer, ele coloca os garfos
 novamente na mesa e volta a pensar.
 
+# Para executar
+ 
+* 1º- Compilar
+- ``` $ javac src/jantardosfilosofos/*.java -d out/ ```
+
+* 2º- Executar
+- ``` $ java -cp out JantarDosFilosofos ```
